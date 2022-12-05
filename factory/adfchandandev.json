@@ -1,0 +1,9 @@
+{
+	"name": "adfchandandev",
+	"location": "australiasoutheast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6fb6f114-418a-43b0-869a-d1414b6247c9",
+		"tenantId": "79498e2c-1c49-43bf-8b2e-34abb8687042"
+	}
+}
